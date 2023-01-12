@@ -70,7 +70,7 @@ category: current
 </li>
 </ul>
 
-For more information, visit Park's [personal website](http://nt.dariasubin.me/).
+For more information, visit Park's [personal website](http://dariasubin.me/).
 
 <!-- _pages/publications.md -->
 <div class="publications">

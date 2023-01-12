@@ -52,7 +52,7 @@ category: current
 </li>
 </ul>
 
-For more information, visit Na's [personal website](https://sungminna97.wixsite.com/my-site).
+For more information, visit Na's [personal website](https://sungminna97.wixsite.com/hci-researcher).
 
 <!-- _pages/publications.md -->
 <div class="publications">
